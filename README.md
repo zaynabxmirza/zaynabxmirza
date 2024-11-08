@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zaynabxmirza
-- 👀 I’m interested in backend
-- 🌱 I’m currently learning Java
-- 💞️ I’m using Python and Java
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning data analytics
+- 💞️ I’m using Python full stack
 - 📫 How to reach me: through LinkedIn
 
 <!---
